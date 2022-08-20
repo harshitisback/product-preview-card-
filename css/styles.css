@@ -1,0 +1,55 @@
+.attribution {
+    
+    font-size: 20px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.attribution a {
+    color: hsl(148, 68%, 56%);
+}
+
+body{
+    text-align: center;
+    margin: 0px;
+}
+
+
+.upper{
+    padding-top: 200px;
+    padding-bottom: 100px;
+    background-color: #FFD39A;
+    
+    
+}
+
+p{
+    margin: 0 auto 0 auto;
+    width: 50%;
+}
+.product{
+    height: 254px;
+    width: 160px;
+    float: left;
+}
+
+.content{
+    border-radius: 50px;
+    background-color: bisque;
+    width: 50%;
+    margin: 0px auto 0px auto;
+    padding-bottom: 30px;
+}
+
+h2{
+    display: inline-block;
+}
+h3{
+    margin-left: 30px;
+}
+
+.less_price{
+    text-decoration: line-through;
+    display: inline-block;
+    margin-left: 30px;
+}
